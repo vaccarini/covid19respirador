@@ -18,7 +18,7 @@ Dentro de las alternativas evaluadas como factibles se encuentran:
 Alternativas viables:
 * Bmp280
 
-# Piezas
+## Piezas
 * Arduino UNO
 *LCD 4X18
 *jostick arduino
@@ -32,7 +32,7 @@ Alternativas viables:
 *Impresion 3D (proyecto Filtro Humdo)
 *Imprsion 3d (proyecto Pipeta interconexion - paciente)
 *Filtro Termico 80c
-*
+
 ## Válvulas
 Alternativas exploradas:
 * Servovalvulas construidas usando un servo motor de alto torque sobre una válvula neumática manual
