@@ -27,4 +27,17 @@ Para integrarse al proyecto por favor contactarse con Martín Vaccarini en marti
 Colaboradores:
 * Martín Vaccarini (autor) (@vaccarini)
 * Ignacio Tolosa (asesor repositorio) (@itolosa)
+* Mateo Roldan (alumno escuela Técnica 5)
+* Gaston Calderon (alumno escuela técnica 5)
+* Eduardo Hisch fábrica de PCB´s
+* Javier Schwindt (donó sensor MAF) 
+* Adrian Merlo (interlocutor para recibir donaciones)
+* Martin ( impresos 3D)
+* Nicolas Dumic (colabora teniendo otro proyecto en caminando)
+* Walter van Derdonckt (argentina)
+* jonan (España)
+* Guille Clave (argentina)
+* Sebastian Padilla (españa)
+
+
 * (Por completar)
