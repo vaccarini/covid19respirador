@@ -1,0 +1,28 @@
+int Trig=12;
+int Echo=13;
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(Trig,OUTPUT);
+  pinMode(Echo,INPUT);
+}
+
+void loop() {
+  float  duracion;
+  float  distancia;
+
+  digitalWrite(Trig,LOW);
+  delayMicroseconds(4);
+  digitalWrite(Trig,HIGH);
+  delayMicroseconds(10);
+  digitalWrite(Trig,LOW);
+
+  duracion=pulseIn(Echo,HIGH);
+  duracion = duracion/2.0;
+  distancia= duracion/29.2;
+
+  Serial.print(distancia);
+  delay(50);
+  Serial.print('\n');
+
+}
