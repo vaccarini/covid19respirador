@@ -35,7 +35,7 @@ Colaboradores:
 * Martin ( impresos 3D)
 * Nicolas Dumic (colabora teniendo otro proyecto en caminando)
 * Walter van Derdonckt (argentina)
-* jonan (España)
+* Jon Ander Oribe (España)
 * Guille Clave (argentina)
 * Sebastian Padilla (españa)
 
